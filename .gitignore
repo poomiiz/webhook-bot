@@ -1,4 +1,5 @@
 node_modules/
 .env
-serviceAccountKey.json
+serviceAccount.json
 git-update.bat
+seedFirestore.js
